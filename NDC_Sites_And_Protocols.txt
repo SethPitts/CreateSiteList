@@ -1,0 +1,814 @@
+NDC
+Sites and Protocols Report
+Site Number/Name: 00000 - The Emmes Corporation 
+
+Address:
+Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0060	CTN-0060: CAMP	Yes	No
+
+
+
+Site Number/Name: 00001 - Dummy Testing Site 1 
+
+Address:
+Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0060	CTN-0060: CAMP	Yes	No
+0064	CTN-0064: HOPE HCV	No	No
+0068	CTN-0068: ADAPT-2	No	No
+0069	CTN-0069: ED-Health	No	No
+0071	CTN-0071: EHR-DARE	No	No
+
+
+
+Site Number/Name: 00002 - Dummy Testing Site 2 
+
+Address:
+Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0060	CTN-0060: CAMP	Yes	No
+0064	CTN-0064: HOPE HCV	No	No
+0068	CTN-0068: ADAPT-2	No	No
+0069	CTN-0069: ED-Health	No	No
+0071	CTN-0071: EHR-DARE	No	No
+
+
+
+Site Number/Name: 02017 - Tarzana Treatment Centers 
+
+Address:
+Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0067	CTN-0067: CHOICES 2	No	No
+
+
+
+Site Number/Name: 02021 - Behavioral Health Services of Pickens County (BHS) 
+
+Address:
+Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0068	CTN-0068: ADAPT-2	No	No
+
+
+
+Site Number/Name: 02041 - Bellevue ED 
+
+Address:
+Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0079	ED-CONNECT	No	No
+0079I	CTN-0079I: ED-CONNECT Focus Group	No	No
+
+
+
+Site Number/Name: 02043 - Jackson Memorial Hospital 
+
+Address:
+Physical Address: Emergency Department Jackson Memorial Department 1611 NW 12th Avenue Miami, FL 33136-1096	Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email: To send correspondence to: Dept. of Epidemiology & Public Health University of Miami Miller School of Medicine 1120 NW 14th Street, Room 1023 (R-669) Miami, Florida 33136 Attn: Paco Castellon
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0064	CTN-0064: HOPE HCV	No	No
+0067	CTN-0067: CHOICES 2	No	No
+
+
+
+Site Number/Name: 02048 - St. Lukes 
+
+Address:
+Addiction Institute St. Luke's-Roosevelt Hospital Center Suite 8c-02 1000 10th Avenue New York, NY 10025	Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0064	CTN-0064: HOPE HCV	No	No
+
+
+
+Site Number/Name: 02054 - CODA, Inc. 
+
+Address:
+Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0068	CTN-0068: ADAPT-2	No	No
+
+
+
+Site Number/Name: 02064 - Grady Memorial Hospital 
+
+Address:
+Grady Memorial Hospital Emory University 68 Armstrong Street Atlanta, GA 30303	Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0064	CTN-0064: HOPE HCV	No	No
+
+
+
+Site Number/Name: 02065 - Johns Hopkins 
+
+Address:
+Johns Hopkins 1830 East Monument Street Baltimore, MD 21287	Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0064	CTN-0064: HOPE HCV	No	No
+
+
+
+Site Number/Name: 02066 - Boston University Medical Center 
+
+Address:
+Boston Medical Center 715 Albany Street Boston, MA 02118	Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0064	CTN-0064: HOPE HCV	No	No
+
+
+
+Site Number/Name: 02067 - Hahnemann University Hospital 
+
+Address:
+Hahnemann University Hospital 245 North 15th Street Philadelphia, PA 19102	Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols: No protocols associated with this site.
+
+
+Site Number/Name: 02068 - Rush University Medical Center / Stroger Cook County Hospital 
+
+Address:
+John H Stroger Jr Hospital 1900 West Polk Street, Room 849 Cook County Health and Hospital Systems Chicago, IL 60612	Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0064	CTN-0064: HOPE HCV	No	No
+
+
+
+Site Number/Name: 02069 - Parkland Health and Human Services 
+
+Address:
+Parkland Health and Hospital System UT Southwestern MC 5232 Harry Hines Blvd Y7.222 Dallas, TX 75390	Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0064	CTN-0064: HOPE HCV	No	No
+
+
+
+Site Number/Name: 02070 - University of Pittsburgh Medical Center (UPMC) 
+
+Address:
+University of Pittsburgh Medical Center 3501 Forbes Avenue Oxford Building, Room 942 Pittsburg, PA 15213	Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0064	CTN-0064: HOPE HCV	No	No
+
+
+
+Site Number/Name: 02071 - Harbor-UCLA 
+
+Address:
+Harbor - UCLA 1124 West Carson Street Torrance, CA 90502	Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0064	CTN-0064: HOPE HCV	No	No
+
+
+
+Site Number/Name: 02072 - University Hospital at University of Alabama (UAB) 
+
+Address:
+University of Alabama 845 19th Street South Birmingham, AL 35294	Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0064	CTN-0064: HOPE HCV	No	No
+
+
+
+Site Number/Name: 02091 - Ruth M. Rothstein CORE Center 
+
+Address:
+Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0067	CTN-0067: CHOICES 2	No	No
+
+
+
+Site Number/Name: 02092 - Duke University 
+
+Address:
+Department of Psychiatry and Behavioral Sciences Duke University Medical Center BOX 3903 Durham, NC 27710	Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0071	CTN-0071: EHR-DARE	No	No
+
+
+
+Site Number/Name: 02093 - Temple University Hospital 
+
+Address:
+3401 North Broad Street, 4th Floor Rock Pavilion 4 West, Clinical Research Center Philadelphia, PA 19140	Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0064	CTN-0064: HOPE HCV	No	No
+
+
+
+Site Number/Name: 02094 - Center for Learning and Health, Johns Hopkins School of Medicine (JHUSOM) 
+
+Address:
+Center for Learning and Health Johns Hopkins School of Medicine 5200 Eastern Avenue, Suite 142 West Baltimore, MD 21224	Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0073	CTN-0073-OT: AutoSense	No	No
+
+
+
+Site Number/Name: 02095 - Johns Hopkins ED 
+
+Address:
+Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0069	CTN-0069: ED-Health	No	No
+0069I	CTN-0069: ED-Health Focus Group	No	No
+
+
+
+Site Number/Name: 02096 - Mount Sinai ED / Beth Israel 
+
+Address:
+Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0069	CTN-0069: ED-Health	No	No
+0069I	CTN-0069: ED-Health Focus Group	No	No
+
+
+
+Site Number/Name: 02097 - Harborview Medical Center ED 
+
+Address:
+Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0069	CTN-0069: ED-Health	No	No
+0069I	CTN-0069: ED-Health Focus Group	No	No
+
+
+
+Site Number/Name: 02098 - University of Cincinnati ED 
+
+Address:
+Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0069	CTN-0069: ED-Health	No	No
+0069I	CTN-0069: ED-Health Focus Group	No	No
+
+
+
+Site Number/Name: 02099 - Substance Use Research Clinic (SURC), Columbia University 
+
+Address:
+Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0068	CTN-0068: ADAPT-2	No	No
+
+
+
+Site Number/Name: 02100 - Hennepin County Medical Center 
+
+Address:
+Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0068	CTN-0068: ADAPT-2	No	No
+
+
+
+Site Number/Name: 02101 - Substance Use Research Unit (SURU), San Francisco Department of Public Health 
+
+Address:
+Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0068	CTN-0068: ADAPT-2	No	No
+
+
+
+Site Number/Name: 02102 - UCLA Center for Behavioral and Addiction Medicine (CBAM) 
+
+Address:
+Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0068	CTN-0068: ADAPT-2	No	No
+
+
+
+Site Number/Name: 02103 - UTHealth CNRA 
+
+Address:
+Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0068	CTN-0068: ADAPT-2	No	No
+
+
+
+Site Number/Name: 02110 - John G Bartlett Specialty Clinic (Bartlett Clinic) (JHU) 
+
+Address:
+Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0067	CTN-0067: CHOICES 2	No	No
+
+
+
+Site Number/Name: 02111 - Whitman Walker/Max Robinson Clinic 
+
+Address:
+Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0067	CTN-0067: CHOICES 2	No	No
+
+
+
+Site Number/Name: 02112 - Florida Department of Health - Orange County - Sunshine Care Center 
+
+Address:
+Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0067	CTN-0067: CHOICES 2	No	No
+
+
+
+Site Number/Name: 02113 - University of Kentucky - Bluegrass Care Clinic 
+
+Address:
+Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0067	CTN-0067: CHOICES 2	No	No
+
+
+
+Site Number/Name: 02114 - Duke Clinic/Josef's Pharmacy 
+
+Address:
+Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0075	CTN-0075: Pharm-OUD-Care	No	No
+0075S	CTN-0075: Pharm-OUD-Care Survey	No	No
+
+
+
+Site Number/Name: 02115 - Changes by Choice/Clinic Pharmacy 
+
+Address:
+Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0075	CTN-0075: Pharm-OUD-Care	No	No
+0075S	CTN-0075: Pharm-OUD-Care Survey	No	No
+
+
+
+Site Number/Name: 02116 - Carolina Performance/Health Park Pharmacy 
+
+Address:
+Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0075	CTN-0075: Pharm-OUD-Care	No	No
+0075S	CTN-0075: Pharm-OUD-Care Survey	No	No
+
+
+
+Site Number/Name: 02117 - Catholic Medical Center 
+
+Address:
+Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0079	ED-CONNECT	No	No
+0079I	CTN-0079I: ED-CONNECT Focus Group	No	No
+
+
+
+Site Number/Name: 02118 - Valley Regional Healthcare 
+
+Address:
+Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0079	ED-CONNECT	No	No
+0079I	CTN-0079I: ED-CONNECT Focus Group	No	No
+
+
+
+Site Number/Name: MV01 - Monitoring Visit 
+
+Address:
+Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+MVR01	Monitoring Visit Protocol	No	No
+
+
+
+Site Number/Name: P2092 - Duke University 
+
+Address:
+Department of Psychiatry and Behavioral Sciences Duke University Medical Center BOX 3903 Durham, NC 27710	Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0071	CTN-0071: EHR-DARE	No	No
+
+
+
+Site Number/Name: PHARM - PHARMout Laboratories 
+
+Address:
+1151 Sonora Ct # 1, Sunnyvale, CA 94086	Site Type:K 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0068	CTN-0068: ADAPT-2	No	No
+
+
+
+Site Number/Name: SFDPH - San Francisco Dept of Public Health 
+
+Address:
+25 Van Ness Avenue, Suite 500 San Francisco, CA 94102	Site Type:K 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0064	CTN-0064: HOPE HCV	No	No
+
+
+
+Site Number/Name: SUR02 - Investigator and Clinician Survey Site 
+
+Address:
+Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+SUR02	CTN-0071: EHR-DARE Investigator and Clinician Survey (Aim 1)	No	Yes
+
+
+
+Site Number/Name: SUR03 - Health IT Survey Site 
+
+Address:
+Site Type:C 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+SUR03	CTN-0071: EHR-DARE Health IT Survey (Aim 2)	No	Yes
+
+
+
+Site Number/Name: USSL - US Specialty Labs 
+
+Address:
+Site Type:K 
+Units:Conventional
+
+Receive Name:
+Receive email:
+Ship Name:
+Ship email:
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0064	CTN-0064: HOPE HCV	No	No

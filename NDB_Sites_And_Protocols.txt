@@ -1,0 +1,474 @@
+NDB
+Sites and Protocols Report
+Site Number/Name: 00000 - The EMMES Corporation 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0051	CTN-0051: X-BOT	Yes	No
+0053	CTN-0053: ACCENT	Yes	No
+0054	CTN-0054: ADAPT	Yes	No
+0055	CTN-0055: CHOICES	Yes	No
+0058	CTN-0058: BRAC	Yes	No
+0059	CTN-0059: TAPS	Yes	No
+0060	CTN-0060: CAMP	No	No
+
+
+
+Site Number/Name: 00001 - DummyTesting Site 1 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0051	CTN-0051: X-BOT	Yes	No
+0053	CTN-0053: ACCENT	Yes	No
+0054	CTN-0054: ADAPT	Yes	No
+0055	CTN-0055: CHOICES	Yes	No
+0058	CTN-0058: BRAC	Yes	No
+0059	CTN-0059: TAPS	Yes	No
+
+
+
+Site Number/Name: 00002 - DummyTesting Site 2 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0051	CTN-0051: X-BOT	Yes	No
+0053	CTN-0053: ACCENT	Yes	No
+0054	CTN-0054: ADAPT	Yes	No
+0055	CTN-0055: CHOICES	Yes	No
+0058	CTN-0058: BRAC	Yes	No
+0059	CTN-0059: TAPS	Yes	No
+
+
+
+Site Number/Name: 02010 - Addiction Medicine Services (AMS) 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0058	CTN-0058: BRAC	Yes	Yes
+
+
+
+Site Number/Name: 02011 - Maryhaven 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0051	CTN-0051: X-BOT	No	No
+A251	CTN-0051: A2	No	No
+
+
+
+Site Number/Name: 02014 - Gateway Community Services 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0051	CTN-0051: X-BOT	No	No
+A251	CTN-0051: A2	No	No
+
+
+
+Site Number/Name: 02017 - Tarzana Treatment Centers 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0051	CTN-0051: X-BOT	No	No
+A251	CTN-0051: A2	No	No
+
+
+
+Site Number/Name: 02018 - Nexus Recovery Center 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0054	CTN-0054: ADAPT	Yes	No
+
+
+
+Site Number/Name: 02021 - Behavioral Health Services of Pickens County (BHSPC) 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0053	CTN-0053: ACCENT	Yes	No
+
+
+
+Site Number/Name: 02024 - Stanley Street Treatment and Resources (SSTAR) 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0051	CTN-0051: X-BOT	No	No
+A251	CTN-0051: A2	No	No
+
+
+
+Site Number/Name: 02028 - Homeward Bound 
+
+
+Associated Protocols: No protocols associated with this site.
+
+
+Site Number/Name: 02030 - Midwestern CT Council of Alcoholism (MCCA) 
+
+
+Associated Protocols: No protocols associated with this site.
+
+
+Site Number/Name: 02050 - Recovery Centers of King County (RCKC) 
+
+
+Associated Protocols: No protocols associated with this site.
+
+
+Site Number/Name: 02052 - Bellevue Hospital Center 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0051	CTN-0051: X-BOT	No	No
+A251	CTN-0051: A2	No	No
+
+
+
+Site Number/Name: 02054 - CODA Inc. 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0053	CTN-0053: ACCENT	Yes	No
+
+
+
+Site Number/Name: 02060 - Evergreen Treatment Services 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0051	CTN-0051: X-BOT	No	No
+
+
+
+Site Number/Name: 02061 - ISAP - UCLA Integrated Substance Abuse Programs 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0053	CTN-0053: ACCENT	Yes	No
+0054	CTN-0054: ADAPT	Yes	No
+
+
+
+Site Number/Name: 02076 - Avery Road 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0051	CTN-0051: X-BOT	No	No
+A251	CTN-0051: A2	No	No
+
+
+
+Site Number/Name: 02077 - University of Hawaii 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0054	CTN-0054: ADAPT	Yes	No
+
+
+
+Site Number/Name: 02078 - Turquoise Lodge Hospital 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0051	CTN-0051: X-BOT	No	No
+
+
+
+Site Number/Name: 02079 - APT Foundation 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0053	CTN-0053: ACCENT	Yes	No
+
+
+
+Site Number/Name: 02080 - University of Texas Health Science Center at San Antonio (UTHSCSA) 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0053	CTN-0053: ACCENT	Yes	No
+
+
+
+Site Number/Name: 02081 - University of Kentucky 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0053	CTN-0053: ACCENT	Yes	No
+
+
+
+Site Number/Name: 02082 - Chase Brexton Health Care 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0059	CTN-0059: TAPS	Yes	No
+
+
+
+Site Number/Name: 02083 - Concord Internal Medicine 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0059	CTN-0059: TAPS	Yes	No
+
+
+
+Site Number/Name: 02084 - Kannapolis Internal Medicine 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0059	CTN-0059: TAPS	Yes	No
+
+
+
+Site Number/Name: 02085 - The CORE Center 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0055	CTN-0055: CHOICES	No	No
+
+
+
+Site Number/Name: 02086 - St. Paul's Hospital/University of British Columbia 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0055	CTN-0055: CHOICES	No	No
+
+
+
+Site Number/Name: 02087 - Bellevue Hospital Center Adult Primary Care 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0059	CTN-0059: TAPS	Yes	No
+
+
+
+Site Number/Name: 02088 - VCU Health System 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0059	CTN-0059: TAPS	Yes	No
+
+
+
+Site Number/Name: 02089 - Cabarrus Health Alliance 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0059	CTN-0059: TAPS	No	No
+
+
+
+Site Number/Name: 02090 - Novant Health Kannapolis Family Medicine 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0059	CTN-0059: TAPS	No	No
+
+
+
+Site Number/Name: 02104 - Mount Sinai Internal Medicine Associates (MSHS) 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0062	CTN-0062-Ot CDE-EHR-PC Patient Attitudes on Screening	No	No
+
+
+
+Site Number/Name: 02105 - Mount Sinai Faculty Practice (MSHS) 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0062	CTN-0062-Ot CDE-EHR-PC Patient Attitudes on Screening	No	No
+
+
+
+Site Number/Name: 02106 - Charlestown Healthcare Clinic (MGH) 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0062	CTN-0062-Ot CDE-EHR-PC Patient Attitudes on Screening	No	No
+
+
+
+Site Number/Name: 02107 - Internal Medicine Associates (MGH) 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0062	CTN-0062-Ot CDE-EHR-PC Patient Attitudes on Screening	No	No
+
+
+
+Site Number/Name: 02108 - Chelsea Healthcare Center (MGH) 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0062	CTN-0062-Ot CDE-EHR-PC Patient Attitudes on Screening	No	No
+
+
+
+Site Number/Name: 02109 - Revere Healthcare Center (MGH) 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0062	CTN-0062-Ot CDE-EHR-PC Patient Attitudes on Screening	No	No
+
+
+
+Site Number/Name: MUSC - MUSC Clinical Neurobiology Lab 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0053	CTN-0053: ACCENT	Yes	No
+
+
+
+Site Number/Name: MV01 - Monitoring Visit 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+MVR01	Monitoring Visit Protocol	No	No
+
+
+
+Site Number/Name: P2082 - PILOT - Chase Brexton Health Care 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0059	CTN-0059: TAPS	No	No
+
+
+
+Site Number/Name: P2087 - PILOT - Bellevue Hospital Center Adult Primary Care 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0059	CTN-0059: TAPS	No	No
+
+
+
+Site Number/Name: P2089 - PILOT - Cabarrus Health Alliance 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0059	CTN-0059: TAPS	No	No
+
+
+
+Site Number/Name: P2090 - PILOT - Novant Health Kannapolis Family Medicine 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0059	CTN-0059: TAPS	No	No
+
+
+
+Site Number/Name: SOFT - Soft Landing Labs 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0053	CTN-0053: ACCENT	Yes	No
+
+
+
+Site Number/Name: SUR01 - Survey Site 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+SUR01	CTN-0055: CHOICES SURVEY	No	No
+
+
+
+Site Number/Name: SUR02 - Investigator and Clinician Survey Site 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+SUR02	CTN-0071: EHR-DARE Investigator and Clinician Survey (Aim 1)	No	No
+
+
+
+Site Number/Name: SUR03 - Health IT Survey Site 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+SUR03	CTN-0071: EHR-DARE Health IT Survey (Aim 2)	No	No
+
+
+
+Site Number/Name: SUR04 - Provider Survey Site 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+SUR04	CTN-0062: CDE-EHR-PC Substance Abuse Attitude Survey (SAAS)	No	No
+
+
+
+Site Number/Name: UCSF - University of California San Francisco Lab 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0053	CTN-0053: ACCENT	Yes	No
+0054	CTN-0054: ADAPT	No	No
+
+
+
+Site Number/Name: USSPC - US Specialty Labs 
+
+
+Associated Protocols:
+Code	Name	GT Blind	Closed
+0054	CTN-0054: ADAPT	No	No
+0055	CTN-0055: CHOICES	No	No
