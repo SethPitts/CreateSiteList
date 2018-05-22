@@ -1,88 +1,83 @@
-Site/Node,CTN-0046,CTN-0052,CTN-0048,CTN-0051,CTN-0037,CTN-0067,CTN-0054,CTN-0053,CTN-0068,CTN-0044,CTN-0050,CTN-A251,CTN-0059,CTN-0055,CTN-0062,CTN-0047,CTN-0079I,CTN-0049,CTN-0064,CTN-0071,CTN-0073,CTN-0069,CTN-0069I,CTN-0075,CTN-0075S
-CTN-NODES,6,4,5,8,3,4,2,6,5,2,2,1,3,2,2,2,1,10,7,1,1,4,4,1,1
-CTN-SITES,8,4,6,9,3,8,3,8,9,3,3,1,5,2,6,2,1,11,11,1,1,4,4,3,3
-Southern Consortium,2,0,0,0,0,0,0,2,2,0,0,0,2,0,0,0,0,1,1,0,0,0,0,0,0
-Behavioral Health Services of Pickens County (BHSPC),A,A,A,,,,,,,,,,,,,,,,,,,,,,
-Behavioral Health Services of Pickens County (BHS),A,A,A,,,,,,,,,,,,,,,,,,,,,,
-Cabarrus Health Alliance,A,,,,,,,,,,,,,,,,,,,,,,,,
-Novant Health Kannapolis Family Medicine,A,,,,,,,,,,,,,,,,,,,,,,,,
-University Hospital at University of Alabama (UAB),A,A,,,,,,,,,,,,,,,,,,,,,,,
-New England Consortium,0,0,0,1,0,0,0,1,0,2,0,0,0,0,4,0,0,1,1,0,0,0,0,0,0
-Stanley Street Treatment and Resources (SSTAR),A,A,,,,,,,,,,,,,,,,,,,,,,,
-APT Foundation,A,,,,,,,,,,,,,,,,,,,,,,,,
-Midwestern CT Council of Alcoholism (MCCA),C,,,,,,,,,,,,,,,,,,,,,,,,
-Charlestown Healthcare Clinic (MGH),A,,,,,,,,,,,,,,,,,,,,,,,,
-Internal Medicine Associates (MGH),A,,,,,,,,,,,,,,,,,,,,,,,,
-Chelsea Healthcare Center (MGH),A,,,,,,,,,,,,,,,,,,,,,,,,
-Revere Healthcare Center (MGH),A,,,,,,,,,,,,,,,,,,,,,,,,
-Boston University Medical Center,A,A,,,,,,,,,,,,,,,,,,,,,,,
-Florida Node Alliance,1,1,0,1,1,2,0,0,0,0,0,0,0,0,0,1,0,2,5,0,0,0,0,0,0
-Gateway Community Services,A,A,A,A,,,,,,,,,,,,,,,,,,,,,
-Jackson Memorial Hospital,A,A,A,A,,,,,,,,,,,,,,,,,,,,,
-Florida Department of Health - Orange County - Sunshine Care Center,A,,,,,,,,,,,,,,,,,,,,,,,,
-Grady Memorial Hospital,A,A,,,,,,,,,,,,,,,,,,,,,,,
-University of Pittsburgh Medical Center (UPMC),A,,,,,,,,,,,,,,,,,,,,,,,,
-Harbor-UCLA,A,,,,,,,,,,,,,,,,,,,,,,,,
-Temple University Hospital,A,,,,,,,,,,,,,,,,,,,,,,,,
-Mid Atlantic,0,0,0,1,0,2,0,0,0,0,0,1,2,0,0,0,0,1,1,0,1,1,1,0,0
-Avery Road,A,A,,,,,,,,,,,,,,,,,,,,,,,
-John G Bartlett Specialty Clinic (Bartlett Clinic) (JHU),A,,,,,,,,,,,,,,,,,,,,,,,,
-Whitman Walker/Max Robinson Clinic,A,,,,,,,,,,,,,,,,,,,,,,,,
-Chase Brexton Health Care,A,,,,,,,,,,,,,,,,,,,,,,,,
-VCU Health System,A,,,,,,,,,,,,,,,,,,,,,,,,
-Johns Hopkins,A,A,,,,,,,,,,,,,,,,,,,,,,,
-"Center for Learning and Health, Johns Hopkins School of Medicine (JHUSOM)",A,,,,,,,,,,,,,,,,,,,,,,,,
-Johns Hopkins ED,A,A,,,,,,,,,,,,,,,,,,,,,,,
-Northstar,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Hennepin County Medical Center,A,,,,,,,,,,,,,,,,,,,,,,,,
-Ohio Valley,1,1,1,1,0,2,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,1,1,0,0
-Maryhaven,A,A,A,A,,,,,,,,,,,,,,,,,,,,,
-Ruth M. Rothstein CORE Center,A,,,,,,,,,,,,,,,,,,,,,,,,
-University of Kentucky - Bluegrass Care Clinic,A,,,,,,,,,,,,,,,,,,,,,,,,
-University of Kentucky,A,,,,,,,,,,,,,,,,,,,,,,,,
-The CORE Center,A,,,,,,,,,,,,,,,,,,,,,,,,
-Rush University Medical Center / Stroger Cook County Hospital,A,A,,,,,,,,,,,,,,,,,,,,,,,
-University of Cincinnati ED,A,A,,,,,,,,,,,,,,,,,,,,,,,
-Western States,0,0,2,0,0,2,0,2,3,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-CODA Inc.,A,A,A,A,,,,,,,,,,,,,,,,,,,,,
-"CODA, Inc.",A,A,A,A,,,,,,,,,,,,,,,,,,,,,
-Tarzana Treatment Centers,A,,,,,,,,,,,,,,,,,,,,,,,,
-"Substance Use Research Unit (SURU), San Francisco Department of Public Health",A,,,,,,,,,,,,,,,,,,,,,,,,
-St. Paul's Hospital/University of British Columbia,A,,,,,,,,,,,,,,,,,,,,,,,,
-Pacific Region,2,0,1,2,0,0,2,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
-Tarzana Treatment Centers,A,A,,,,,,,,,,,,,,,,,,,,,,,
-ISAP - UCLA Integrated Substance Abuse Programs,A,A,A,,,,,,,,,,,,,,,,,,,,,,
-University of Hawaii,A,,,,,,,,,,,,,,,,,,,,,,,,
-Harbor-UCLA,A,,,,,,,,,,,,,,,,,,,,,,,,
-Appalachian Tri-State,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
-Addiction Medicine Services (AMS),C,C,,,,,,,,,,,,,,,,,,,,,,,
-University of Pittsburgh Medical Center (UPMC),A,,,,,,,,,,,,,,,,,,,,,,,,
-Southwest,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Turquoise Lodge Hospital,A,,,,,,,,,,,,,,,,,,,,,,,,
-Mid Southern,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,3
-Duke University,A,,,,,,,,,,,,,,,,,,,,,,,,
-Duke Clinic/Josef's Pharmacy,A,A,,,,,,,,,,,,,,,,,,,,,,,
-Changes by Choice/Clinic Pharmacy,A,A,,,,,,,,,,,,,,,,,,,,,,,
-Carolina Performance/Health Park Pharmacy,A,A,,,,,,,,,,,,,,,,,,,,,,,
-Greater New York,0,0,1,1,1,0,0,0,1,0,0,0,1,0,2,1,1,1,1,0,0,1,1,0,0
-Bellevue Hospital Center,A,A,,,,,,,,,,,,,,,,,,,,,,,
-St. Lukes,A,A,A,,,,,,,,,,,,,,,,,,,,,,
-"Substance Use Research Clinic (SURC), Columbia University",A,,,,,,,,,,,,,,,,,,,,,,,,
-Bellevue Hospital Center Adult Primary Care,A,,,,,,,,,,,,,,,,,,,,,,,,
-Mount Sinai Internal Medicine Associates (MSHS),A,,,,,,,,,,,,,,,,,,,,,,,,
-Mount Sinai Faculty Practice (MSHS),A,,,,,,,,,,,,,,,,,,,,,,,,
-Bellevue ED,A,A,,,,,,,,,,,,,,,,,,,,,,,
-Mount Sinai ED / Beth Israel,A,A,,,,,,,,,,,,,,,,,,,,,,,
-Pacific Northwest,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0
-Recovery Centers of King County (RCKC),C,,,,,,,,,,,,,,,,,,,,,,,,
-Evergreen Treatment Services,A,A,,,,,,,,,,,,,,,,,,,,,,,
-Harborview Medical Center ED,A,A,,,,,,,,,,,,,,,,,,,,,,,
-Delaware Valley,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
-Hahnemann University Hospital,C,,,,,,,,,,,,,,,,,,,,,,,,
-Texas,1,1,0,0,1,0,1,1,2,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
-Nexus Recovery Center,A,A,A,A,,,,,,,,,,,,,,,,,,,,,
-University of Texas Health Science Center at San Antonio (UTHSCSA),A,,,,,,,,,,,,,,,,,,,,,,,,
-UCLA Center for Behavioral and Addiction Medicine (CBAM),A,,,,,,,,,,,,,,,,,,,,,,,,
-UTHealth CNRA,A,,,,,,,,,,,,,,,,,,,,,,,,
-Homeward Bound,C,,,,,,,,,,,,,,,,,,,,,,,,
-Parkland Health and Human Services,A,A,,,,,,,,,,,,,,,,,,,,,,,
+Site/Node,CTN-0037,CTN-0044,CTN-0046,CTN-0047,CTN-0048,CTN-0049,CTN-0050,CTN-0051,CTN-0052,CTN-0053,CTN-0054,CTN-0055,CTN-0059,CTN-0062,CTN-0064,CTN-0067,CTN-0068,CTN-0069,CTN-0069I,CTN-0071,CTN-0073,CTN-0075,CTN-0075S,CTN-0079I,CTN-A251
+CTN-NODES,3,1,6,2,4,9,2,8,4,6,2,2,3,2,7,4,5,4,4,1,1,1,1,1,1
+CTN-SITES,3,1,8,2,5,10,3,9,4,8,3,2,5,6,11,8,9,4,4,1,1,3,3,1,1
+Southwest,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Turquoise Lodge Hospital,,,,,,,,C,,,,,,,,,,,,,,,,,
+Mid Southern,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,3,0,0
+Duke University,,,,,,,,,,,,,,,,,,,,A,,,,,
+Duke Clinic/Josef's Pharmacy,,,,,,,,,,,,,,,,,,,,,,A,A,,
+Changes by Choice/Clinic Pharmacy,,,,,,,,,,,,,,,,,,,,,,A,A,,
+Carolina Performance/Health Park Pharmacy,,,,,,,,,,,,,,,,,,,,,,A,A,,
+Western States,0,0,0,0,2,0,2,0,0,2,0,1,0,0,0,2,3,0,0,0,0,0,0,0,0
+CODA Inc.,,,,,C,,C,,,A,,,,,,,A,,,,,,,,
+"CODA, Inc.",,,,,C,,C,,,A,,,,,,,A,,,,,,,,
+St. Paul's Hospital/University of British Columbia,,,,,,,,,,,,A,,,,,,,,,,,,,
+Tarzana Treatment Centers,,,,,,,,,,,,,,,,A,,,,,,,,,
+"Substance Use Research Unit (SURU), San Francisco Department of Public Health",,,,,,,,,,,,,,,,,A,,,,,,,,
+Northstar,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Hennepin County Medical Center,,,,,,,,,,,,,,,,,A,,,,,,,,
+Greater New York,1,0,0,1,1,1,0,1,0,0,0,0,1,2,1,0,1,1,1,0,0,0,0,1,0
+St. Lukes,C,,,,,C,,,,,,,,,A,,,,,,,,,,
+Bellevue ED,,,,C,,,,,,,,,,,,,,,,,,,,A,
+Bellevue Hospital Center,,,,,C,,,C,,,,,,,,,,,,,,,,,
+Bellevue Hospital Center Adult Primary Care,,,,,,,,,,,,,A,,,,,,,,,,,,
+Mount Sinai Internal Medicine Associates (MSHS),,,,,,,,,,,,,,A,,,,,,,,,,,
+Mount Sinai Faculty Practice (MSHS),,,,,,,,,,,,,,A,,,,,,,,,,,
+"Substance Use Research Clinic (SURC), Columbia University",,,,,,,,,,,,,,,,,A,,,,,,,,
+Mount Sinai ED / Beth Israel,,,,,,,,,,,,,,,,,,A,A,,,,,,
+Mid Atlantic,0,0,0,0,0,1,0,1,0,0,0,0,2,0,1,2,0,1,1,0,1,0,0,0,1
+Johns Hopkins,,,,,,C,,,,,,,,,A,,,,,,,,,,
+Avery Road,,,,,,,,C,,,,,,,,,,,,,,,,,A
+Chase Brexton Health Care,,,,,,,,,,,,,A,,,,,,,,,,,,
+VCU Health System,,,,,,,,,,,,,A,,,,,,,,,,,,
+John G Bartlett Specialty Clinic (Bartlett Clinic) (JHU),,,,,,,,,,,,,,,,A,,,,,,,,,
+Whitman Walker/Max Robinson Clinic,,,,,,,,,,,,,,,,A,,,,,,,,,
+Johns Hopkins ED,,,,,,,,,,,,,,,,,,A,A,,,,,,
+"Center for Learning and Health, Johns Hopkins School of Medicine (JHUSOM)",,,,,,,,,,,,,,,,,,,,,A,,,,
+Pacific Northwest,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Evergreen Treatment Services,,,,,,,C,C,,,,,,,,,,,,,,,,,
+Harborview Medical Center ED,,,,,,,,,,,,,,,,,,A,A,,,,,,
+New England Consortium,0,1,0,0,0,1,0,1,0,1,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0
+Stanley Street Treatment and Resources (SSTAR),,C,,,,,,C,,,,,,,,,,,,,,,,,
+Boston University Medical Center,,,,,,C,,,,,,,,,A,,,,,,,,,,
+APT Foundation,,,,,,,,,,A,,,,,,,,,,,,,,,
+Charlestown Healthcare Clinic (MGH),,,,,,,,,,,,,,A,,,,,,,,,,,
+Internal Medicine Associates (MGH),,,,,,,,,,,,,,A,,,,,,,,,,,
+Chelsea Healthcare Center (MGH),,,,,,,,,,,,,,A,,,,,,,,,,,
+Revere Healthcare Center (MGH),,,,,,,,,,,,,,A,,,,,,,,,,,
+Southern Consortium,0,0,2,0,0,1,0,0,0,2,0,0,2,0,1,0,2,0,0,0,0,0,0,0,0
+Behavioral Health Services of Pickens County (BHSPC),,,C,,,,,,,A,,,,,,,A,,,,,,,,
+Behavioral Health Services of Pickens County (BHS),,,C,,,,,,,A,,,,,,,A,,,,,,,,
+University Hospital at University of Alabama (UAB),,,,,,C,,,,,,,,,A,,,,,,,,,,
+Cabarrus Health Alliance,,,,,,,,,,,,,A,,,,,,,,,,,,
+Novant Health Kannapolis Family Medicine,,,,,,,,,,,,,A,,,,,,,,,,,,
+Florida Node Alliance,1,0,1,1,0,2,0,1,1,0,0,0,0,0,5,2,0,0,0,0,0,0,0,0,0
+Gateway Community Services,C,,C,,,,,C,C,,,,,,,,,,,,,,,,
+Jackson Memorial Hospital,,,,C,,C,,,,,,,,,A,A,,,,,,,,,
+Grady Memorial Hospital,,,,,,C,,,,,,,,,A,,,,,,,,,,
+University of Pittsburgh Medical Center (UPMC),,,,,,,,,,,,,,,A,,,,,,,,,,
+Harbor-UCLA,,,,,,,,,,,,,,,A,,,,,,,,,,
+Temple University Hospital,,,,,,,,,,,,,,,A,,,,,,,,,,
+Florida Department of Health - Orange County - Sunshine Care Center,,,,,,,,,,,,,,,,A,,,,,,,,,
+Ohio Valley,0,0,1,0,1,1,0,1,1,1,0,1,0,0,1,2,0,1,1,0,0,0,0,0,0
+Maryhaven,,,C,,C,,,C,C,,,,,,,,,,,,,,,,
+Rush University Medical Center / Stroger Cook County Hospital,,,,,,C,,,,,,,,,A,,,,,,,,,,
+University of Kentucky,,,,,,,,,,A,,,,,,,,,,,,,,,
+The CORE Center,,,,,,,,,,,,A,,,,,,,,,,,,,
+Ruth M. Rothstein CORE Center,,,,,,,,,,,,,,,,A,,,,,,,,,
+University of Kentucky - Bluegrass Care Clinic,,,,,,,,,,,,,,,,A,,,,,,,,,
+University of Cincinnati ED,,,,,,,,,,,,,,,,,,A,A,,,,,,
+Appalachian Tri-State,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Addiction Medicine Services (AMS),,,C,,,,,,C,,,,,,,,,,,,,,,,
+University of Pittsburgh Medical Center (UPMC),,,,,,C,,,,,,,,,,,,,,,,,,,
+Pacific Region,0,0,2,0,1,1,0,2,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tarzana Treatment Centers,,,C,,,,,C,,,,,,,,,,,,,,,,,
+ISAP - UCLA Integrated Substance Abuse Programs,,,,,C,,,,,A,A,,,,,,,,,,,,,,
+Harbor-UCLA,,,,,,C,,,,,,,,,,,,,,,,,,,
+University of Hawaii,,,,,,,,,,,A,,,,,,,,,,,,,,
+Texas,1,0,1,0,0,1,0,0,1,1,1,0,0,0,1,0,2,0,0,0,0,0,0,0,0
+Nexus Recovery Center,C,,C,,,,,,C,,A,,,,,,,,,,,,,,
+Parkland Health and Human Services,,,,,,C,,,,,,,,,A,,,,,,,,,,
+University of Texas Health Science Center at San Antonio (UTHSCSA),,,,,,,,,,A,,,,,,,,,,,,,,,
+UCLA Center for Behavioral and Addiction Medicine (CBAM),,,,,,,,,,,,,,,,,A,,,,,,,,
+UTHealth CNRA,,,,,,,,,,,,,,,,,A,,,,,,,,

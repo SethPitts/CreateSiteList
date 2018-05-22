@@ -91,7 +91,7 @@ for platform in platforms:
 
 protocol_info = DefaultOrderedDict(dict)
 protocol_and_site_info = []
-all_prots = protocol_node_info.keys()
+all_prots = sorted(protocol_node_info.keys())
 protocol_and_site_info.append(['Site/Node'] + ['CTN-{}'.format(protocol) for protocol in all_prots])
 for prot in all_prots:
     protocol_info[prot]['CTN-NODES'] = len(protocol_node_info[prot].keys())
@@ -122,22 +122,25 @@ for node, node_info in final_node_info.items():
 for node, node_info in final_node_info.items():
     protocol_and_site_info.append([node] + [len(item) for item in node_info.values()])
     site_specific_info = DefaultOrderedDict(dict)
-    for protocol, sites_in_protocol in node_info.items():
+    for protocol in all_prots:
+        if node_info.get(protocol) != []:
+            sites_in_protocol = node_info.get(protocol)
+        else:
+            sites_in_protocol = []
         for site in sites_in_protocol:
             site_name = site.site
             site_status = site.status
-            site_specific_info[site_name][protocol] =site_status
+            site_specific_info[site_name][protocol] = site_status
     for site in site_specific_info:
         for prot in all_prots:
             if site_specific_info[site].get(prot) is None:
                 site_specific_info[site][prot] = ""
     for site, site_info in site_specific_info.items():
-        protocol_and_site_info.append([site] + list(site_info.values()))
+        protocol_and_site_info.append([site] + list([site_info[prot] for prot in all_prots]))
 
 with open('all_site_info.csv', 'w', newline="") as outfile:
     csvwriter = csv.writer(outfile)
     csvwriter.writerows(protocol_and_site_info)
-
 
 # protocol_info_df = pd.DataFrame.from_dict(protocol_info)
 # all_node_info_df = pd.DataFrame.from_dict(all_node_info)
