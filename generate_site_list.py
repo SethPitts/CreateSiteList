@@ -141,17 +141,3 @@ for node, node_info in final_node_info.items():
 with open('all_site_info.csv', 'w', newline="") as outfile:
     csvwriter = csv.writer(outfile)
     csvwriter.writerows(protocol_and_site_info)
-
-# protocol_info_df = pd.DataFrame.from_dict(protocol_info)
-# all_node_info_df = pd.DataFrame.from_dict(all_node_info)
-# all_site_info_df = pd.DataFrame.from_dict(all_site_info)
-#
-# protocol_excel_writer = pd.ExcelWriter('protocol_info.xlsx')
-#
-#
-#
-# protocol_info_df.to_excel(protocol_excel_writer, sheet_name='protocol_info')
-# all_node_info_df.to_excel(protocol_excel_writer, sheet_name='node_info')
-# all_site_info_df.to_excel(protocol_excel_writer, sheet_name='site_info')
-#
-# protocol_excel_writer.save()
