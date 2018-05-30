@@ -46,7 +46,7 @@ class DefaultOrderedDict(OrderedDict):
         return 'OrderedDefaultOrderedDict(%s, %s)' % (self.default_factory,
                                                OrderedDict.__repr__(self))
 # get NDB and NDC data from sas
-
+#TODO: Run programs to update siteinfo with subprocess
 ndb_site_data = pd.read_sas(r'G:\NIDADSC\spitts\SAS_Projects\NDB\siteinfo.sas7bdat', format='sas7bdat')
 ndc_site_data = pd.read_sas(r'G:\NIDADSC\spitts\SAS_Projects\NDC\siteinfo.sas7bdat', format='sas7bdat')
 
@@ -66,6 +66,11 @@ for platform in platforms:
         if prot == '00 .':
             continue
         site = row.SITENAME.decode('utf-8')
+        # Fix issues in site name differences
+        if site.find("CODA") != -1:
+            site = 'CODA Inc.'
+        if site.find("Behavioral Health Services of Pickens County") != -1:
+            site = 'Behavioral Health Services of Pickens County (BHS)'
         closed = row.CLOSED
         if closed == 0.0:
             closed = "A"
